@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net8.0\04. Train The Trainers.exe
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net8.0\04. Train The Trainers.deps.json
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net8.0\04. Train The Trainers.runtimeconfig.json
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net8.0\04. Train The Trainers.dll
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\bin\Debug\net8.0\04. Train The Trainers.pdb
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.dll
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\refint\04. Train The Trainers.dll
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.pdb
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\04. Train The Trainers.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Exercise\04. Train The Trainers\obj\Debug\net8.0\ref\04. Train The Trainers.dll

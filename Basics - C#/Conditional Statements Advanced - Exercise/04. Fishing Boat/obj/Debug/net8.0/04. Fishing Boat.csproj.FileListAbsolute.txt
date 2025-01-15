@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.exe
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.deps.json
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net8.0\04. Fishing Boat.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\refint\04. Fishing Boat.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\04. Fishing Boat.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net8.0\ref\04. Fishing Boat.dll

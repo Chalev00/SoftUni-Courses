@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.exe
+E:\VS cods\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.deps.json
+E:\VS cods\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.dll
+E:\VS cods\For Loop - Exercise\05. Salary\bin\Debug\net8.0\05. Salary.pdb
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.dll
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\refint\05. Salary.dll
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.pdb
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\05. Salary.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\05. Salary\obj\Debug\net8.0\ref\05. Salary.dll

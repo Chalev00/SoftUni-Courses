@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.exe
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.deps.json
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.runtimeconfig.json
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.dll
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\bin\Debug\net8.0\10. Odd Even Sum.pdb
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.AssemblyInfo.cs
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.dll
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\refint\10. Odd Even Sum.dll
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.pdb
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\10. Odd Even Sum.genruntimeconfig.cache
+E:\VS cods\For Loop - Lab\10. Odd Even Sum\obj\Debug\net8.0\ref\10. Odd Even Sum.dll

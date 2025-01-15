@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\Nested Loops - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9146F-A1BE-4856-B4A7-504589A290EF}|06. Cinema Tickets\\06. Cinema Tickets.csproj|e:\\vs cods\\nested loops - exercise\\06. cinema tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD9146F-A1BE-4856-B4A7-504589A290EF}|06. Cinema Tickets\\06. Cinema Tickets.csproj|solutionrelative:06. cinema tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097282A2-7651-46CA-BF57-5C40F40B1D3E}|05. Special Numbers\\05. Special Numbers.csproj|e:\\vs cods\\nested loops - exercise\\05. special numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097282A2-7651-46CA-BF57-5C40F40B1D3E}|05. Special Numbers\\05. Special Numbers.csproj|solutionrelative:05. special numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACFAA25D-4608-466A-AC63-51051D4F7703}|04. Train The Trainers\\04. Train The Trainers.csproj|e:\\vs cods\\nested loops - exercise\\04. train the trainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACFAA25D-4608-466A-AC63-51051D4F7703}|04. Train The Trainers\\04. Train The Trainers.csproj|solutionrelative:04. train the trainers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC38384-9C63-456D-99F4-D750413A816E}|03. Sum Prime Non Prime\\03. Sum Prime Non Prime.csproj|e:\\vs cods\\nested loops - exercise\\03. sum prime non prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC38384-9C63-456D-99F4-D750413A816E}|03. Sum Prime Non Prime\\03. Sum Prime Non Prime.csproj|solutionrelative:03. sum prime non prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278F1061-2292-45AF-BF4A-B31CAAE63ED9}|02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.csproj|e:\\vs cods\\nested loops - exercise\\02. equal sums even odd position\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278F1061-2292-45AF-BF4A-B31CAAE63ED9}|02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.csproj|solutionrelative:02. equal sums even odd position\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F687A3-A39D-4148-B878-5FD8E04F5559}|01. Number Pyramid\\01. Number Pyramid.csproj|e:\\vs cods\\nested loops - exercise\\01. number pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F687A3-A39D-4148-B878-5FD8E04F5559}|01. Number Pyramid\\01. Number Pyramid.csproj|solutionrelative:01. number pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\06. Cinema Tickets\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cinema Tickets\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\06. Cinema Tickets\\Program.cs",
+              "RelativeToolTip": "06. Cinema Tickets\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:52:57.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\05. Special Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Special Numbers\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\05. Special Numbers\\Program.cs",
+              "RelativeToolTip": "05. Special Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:52:48.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\04. Train The Trainers\\Program.cs",
+              "RelativeDocumentMoniker": "04. Train The Trainers\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\04. Train The Trainers\\Program.cs",
+              "RelativeToolTip": "04. Train The Trainers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:52:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Prime Non Prime\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\Program.cs",
+              "RelativeToolTip": "03. Sum Prime Non Prime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:52:28.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\Program.cs",
+              "RelativeDocumentMoniker": "02. Equal Sums Even Odd Position\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\Program.cs",
+              "RelativeToolTip": "02. Equal Sums Even Odd Position\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:52:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Nested Loops - Exercise\\01. Number Pyramid\\Program.cs",
+              "RelativeDocumentMoniker": "01. Number Pyramid\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Nested Loops - Exercise\\01. Number Pyramid\\Program.cs",
+              "RelativeToolTip": "01. Number Pyramid\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:50:35.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

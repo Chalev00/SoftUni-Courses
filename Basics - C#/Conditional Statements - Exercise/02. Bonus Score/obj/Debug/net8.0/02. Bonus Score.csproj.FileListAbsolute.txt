@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net8.0\02. Bonus Score.exe
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net8.0\02. Bonus Score.deps.json
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net8.0\02. Bonus Score.runtimeconfig.json
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net8.0\02. Bonus Score.dll
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net8.0\02. Bonus Score.pdb
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.dll
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\refint\02. Bonus Score.dll
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.pdb
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\02. Bonus Score.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net8.0\ref\02. Bonus Score.dll

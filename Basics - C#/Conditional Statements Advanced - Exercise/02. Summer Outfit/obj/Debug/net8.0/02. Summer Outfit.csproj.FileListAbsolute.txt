@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net8.0\02. Summer Outfit.exe
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net8.0\02. Summer Outfit.deps.json
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net8.0\02. Summer Outfit.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net8.0\02. Summer Outfit.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net8.0\02. Summer Outfit.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\refint\02. Summer Outfit.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\02. Summer Outfit.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net8.0\ref\02. Summer Outfit.dll

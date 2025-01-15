@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net8.0\05. Small Shop.exe
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net8.0\05. Small Shop.deps.json
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net8.0\05. Small Shop.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net8.0\05. Small Shop.dll
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\net8.0\05. Small Shop.pdb
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.dll
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\refint\05. Small Shop.dll
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.pdb
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\05. Small Shop.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\net8.0\ref\05. Small Shop.dll

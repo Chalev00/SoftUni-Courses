@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5CC605-9188-4130-BF44-6E3D2BF20E13}|5. Messages\\5. Messages.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - more exercise\\5. messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5CC605-9188-4130-BF44-6E3D2BF20E13}|5. Messages\\5. Messages.csproj|solutionrelative:5. messages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B64975-438E-46A4-963E-9F53728963A7}|4. Reverse String\\4. Reverse String.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - more exercise\\4. reverse string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B64975-438E-46A4-963E-9F53728963A7}|4. Reverse String\\4. Reverse String.csproj|solutionrelative:4. reverse string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95827284-1C32-4ED3-A4A1-2063E51F0D04}|3. Gaming Store\\3. Gaming Store.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - more exercise\\3. gaming store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95827284-1C32-4ED3-A4A1-2063E51F0D04}|3. Gaming Store\\3. Gaming Store.csproj|solutionrelative:3. gaming store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB18679-2A33-47DC-99E6-F892EAD716E5}|2. English Name of the Last Digit\\2. English Name of the Last Digit.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - more exercise\\2. english name of the last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB18679-2A33-47DC-99E6-F892EAD716E5}|2. English Name of the Last Digit\\2. English Name of the Last Digit.csproj|solutionrelative:2. english name of the last digit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF4A185-5565-403E-BD61-A56AC38A5244}|1. Sort Numbers\\1. Sort Numbers.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - more exercise\\1. sort numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF4A185-5565-403E-BD61-A56AC38A5244}|1. Sort Numbers\\1. Sort Numbers.csproj|solutionrelative:1. sort numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\5. Messages\\Program.cs",
+              "RelativeDocumentMoniker": "5. Messages\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\5. Messages\\Program.cs",
+              "RelativeToolTip": "5. Messages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:22:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\4. Reverse String\\Program.cs",
+              "RelativeDocumentMoniker": "4. Reverse String\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\4. Reverse String\\Program.cs",
+              "RelativeToolTip": "4. Reverse String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:22:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\3. Gaming Store\\Program.cs",
+              "RelativeDocumentMoniker": "3. Gaming Store\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\3. Gaming Store\\Program.cs",
+              "RelativeToolTip": "3. Gaming Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:22:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\2. English Name of the Last Digit\\Program.cs",
+              "RelativeDocumentMoniker": "2. English Name of the Last Digit\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\2. English Name of the Last Digit\\Program.cs",
+              "RelativeToolTip": "2. English Name of the Last Digit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:22:09.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\1. Sort Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "1. Sort Numbers\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - More Exercise\\1. Sort Numbers\\Program.cs",
+              "RelativeToolTip": "1. Sort Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:21:40.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

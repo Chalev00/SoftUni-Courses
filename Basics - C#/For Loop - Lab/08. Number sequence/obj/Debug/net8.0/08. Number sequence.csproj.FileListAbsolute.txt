@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.AssemblyInfo.cs
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Lab\08. Number sequence\bin\Debug\net8.0\08. Number sequence.exe
+E:\VS cods\For Loop - Lab\08. Number sequence\bin\Debug\net8.0\08. Number sequence.deps.json
+E:\VS cods\For Loop - Lab\08. Number sequence\bin\Debug\net8.0\08. Number sequence.runtimeconfig.json
+E:\VS cods\For Loop - Lab\08. Number sequence\bin\Debug\net8.0\08. Number sequence.dll
+E:\VS cods\For Loop - Lab\08. Number sequence\bin\Debug\net8.0\08. Number sequence.pdb
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.dll
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\refint\08. Number sequence.dll
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.pdb
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\08. Number sequence.genruntimeconfig.cache
+E:\VS cods\For Loop - Lab\08. Number sequence\obj\Debug\net8.0\ref\08. Number sequence.dll

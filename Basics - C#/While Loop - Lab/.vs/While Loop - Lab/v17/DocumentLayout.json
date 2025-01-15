@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\While Loop - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579F98BB-4D46-41C2-98D2-0302D659D435}|08. Graduation\\08. Graduation.csproj|e:\\vs cods\\while loop - lab\\08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579F98BB-4D46-41C2-98D2-0302D659D435}|08. Graduation\\08. Graduation.csproj|solutionrelative:08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A9C848-E29F-46C3-866A-33C45550C3A9}|07. Min Number\\07. Min Number.csproj|e:\\vs cods\\while loop - lab\\07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A9C848-E29F-46C3-866A-33C45550C3A9}|07. Min Number\\07. Min Number.csproj|solutionrelative:07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F0BB73-3853-433E-9117-66F7D0D34DA9}|06. Max Number\\06. Max Number.csproj|e:\\vs cods\\while loop - lab\\06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F0BB73-3853-433E-9117-66F7D0D34DA9}|06. Max Number\\06. Max Number.csproj|solutionrelative:06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C528D5-3D3E-41E5-B5C1-61EDB4436AA8}|05. Account Balance\\05. Account Balance.csproj|e:\\vs cods\\while loop - lab\\05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C528D5-3D3E-41E5-B5C1-61EDB4436AA8}|05. Account Balance\\05. Account Balance.csproj|solutionrelative:05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB070B7-7117-4E66-9FEA-0F577F446A5C}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|e:\\vs cods\\while loop - lab\\04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB070B7-7117-4E66-9FEA-0F577F446A5C}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|solutionrelative:04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeDocumentMoniker": "05. Account Balance\\Program.cs",
+              "ToolTip": "E:\\VS cods\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeToolTip": "05. Account Balance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:58:18.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08. Graduation\\Program.cs",
+              "ToolTip": "E:\\VS cods\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeToolTip": "08. Graduation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:54:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeDocumentMoniker": "07. Min Number\\Program.cs",
+              "ToolTip": "E:\\VS cods\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeToolTip": "07. Min Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:47:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeDocumentMoniker": "06. Max Number\\Program.cs",
+              "ToolTip": "E:\\VS cods\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeToolTip": "06. Max Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:34:17.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k\u002B1\\Program.cs",
+              "ToolTip": "E:\\VS cods\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k\u002B1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:28:47.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

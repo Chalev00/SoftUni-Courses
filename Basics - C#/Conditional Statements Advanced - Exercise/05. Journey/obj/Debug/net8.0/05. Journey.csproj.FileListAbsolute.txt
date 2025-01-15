@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net8.0\05. Journey.exe
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net8.0\05. Journey.deps.json
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net8.0\05. Journey.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net8.0\05. Journey.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\bin\Debug\net8.0\05. Journey.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\refint\05. Journey.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\05. Journey.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\05. Journey\obj\Debug\net8.0\ref\05. Journey.dll

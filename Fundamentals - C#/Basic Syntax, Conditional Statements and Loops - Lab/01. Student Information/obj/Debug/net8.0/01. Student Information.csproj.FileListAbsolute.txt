@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net8.0\01. Student Information.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net8.0\01. Student Information.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net8.0\01. Student Information.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net8.0\01. Student Information.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\net8.0\01. Student Information.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\refint\01. Student Information.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\01. Student Information.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\net8.0\ref\01. Student Information.dll

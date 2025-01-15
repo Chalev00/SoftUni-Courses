@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.AssemblyInfo.cs
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.exe
+E:\VS cods\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.deps.json
+E:\VS cods\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.runtimeconfig.json
+E:\VS cods\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.dll
+E:\VS cods\While Loop - Exercise\06. Cake\bin\Debug\net8.0\06. Cake.pdb
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.dll
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\refint\06. Cake.dll
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.pdb
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\06. Cake.genruntimeconfig.cache
+E:\VS cods\While Loop - Exercise\06. Cake\obj\Debug\net8.0\ref\06. Cake.dll

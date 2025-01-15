@@ -1,0 +1,14 @@
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\net8.0\Hello SoftUni.exe
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\net8.0\Hello SoftUni.deps.json
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\net8.0\Hello SoftUni.runtimeconfig.json
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\net8.0\Hello SoftUni.dll
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\net8.0\Hello SoftUni.pdb
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.AssemblyInfoInputs.cache
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.AssemblyInfo.cs
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.csproj.CoreCompileInputs.cache
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.dll
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\refint\Hello SoftUni.dll
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.pdb
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\Hello SoftUni.genruntimeconfig.cache
+E:\VS cods\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\net8.0\ref\Hello SoftUni.dll

@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net8.0\06. Foreign Languages.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net8.0\06. Foreign Languages.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net8.0\06. Foreign Languages.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net8.0\06. Foreign Languages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\net8.0\06. Foreign Languages.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\refint\06. Foreign Languages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\06. Foreign Languages.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\net8.0\ref\06. Foreign Languages.dll

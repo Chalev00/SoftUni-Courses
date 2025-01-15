@@ -1,0 +1,14 @@
+E:\VS cods\01. USD to BGN\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.exe
+E:\VS cods\01. USD to BGN\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.deps.json
+E:\VS cods\01. USD to BGN\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.runtimeconfig.json
+E:\VS cods\01. USD to BGN\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.dll
+E:\VS cods\01. USD to BGN\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.pdb
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfoInputs.cache
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfo.cs
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.dll
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\refint\09. Fish Tank.dll
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.pdb
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.genruntimeconfig.cache
+E:\VS cods\01. USD to BGN\09. Fish Tank\obj\Debug\net8.0\ref\09. Fish Tank.dll

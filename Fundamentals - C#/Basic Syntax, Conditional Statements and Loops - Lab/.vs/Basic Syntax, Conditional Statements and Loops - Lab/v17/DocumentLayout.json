@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6552DB0C-BA10-4593-B40A-C9CC011DE3E4}|13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj|e:\\vs cods\\basic syntax, conditional statements and loops - lab\\13. holidays between two dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6552DB0C-BA10-4593-B40A-C9CC011DE3E4}|13. Holidays Between Two Dates\\13. Holidays Between Two Dates.csproj|solutionrelative:13. holidays between two dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\Program.cs",
+              "RelativeDocumentMoniker": "13. Holidays Between Two Dates\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Basic Syntax, Conditional Statements and Loops - Lab\\13. Holidays Between Two Dates\\Program.cs",
+              "RelativeToolTip": "13. Holidays Between Two Dates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T15:48:02.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

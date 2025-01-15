@@ -1,0 +1,14 @@
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.exe
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.deps.json
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.runtimeconfig.json
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.dll
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\bin\Debug\net8.0\06. Concatenate Data.pdb
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.AssemblyInfoInputs.cache
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.AssemblyInfo.cs
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.dll
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\refint\06. Concatenate Data.dll
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.pdb
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\06. Concatenate Data.genruntimeconfig.cache
+E:\VS cods\First Steps In Coding - Lab\06. Concatenate Data\obj\Debug\net8.0\ref\06. Concatenate Data.dll

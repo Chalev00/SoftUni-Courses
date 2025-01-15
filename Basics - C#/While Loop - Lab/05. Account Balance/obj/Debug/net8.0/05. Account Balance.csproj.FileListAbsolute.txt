@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.exe
+E:\VS cods\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.deps.json
+E:\VS cods\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.runtimeconfig.json
+E:\VS cods\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.dll
+E:\VS cods\While Loop - Lab\05. Account Balance\bin\Debug\net8.0\05. Account Balance.pdb
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.AssemblyInfo.cs
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.dll
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\refint\05. Account Balance.dll
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.pdb
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\05. Account Balance.genruntimeconfig.cache
+E:\VS cods\While Loop - Lab\05. Account Balance\obj\Debug\net8.0\ref\05. Account Balance.dll

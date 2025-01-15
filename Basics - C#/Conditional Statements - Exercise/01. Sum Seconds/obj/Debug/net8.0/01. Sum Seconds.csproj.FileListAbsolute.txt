@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.exe
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.deps.json
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.runtimeconfig.json
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.dll
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net8.0\01. Sum Seconds.pdb
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.dll
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\refint\01. Sum Seconds.dll
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.pdb
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\01. Sum Seconds.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net8.0\ref\01. Sum Seconds.dll

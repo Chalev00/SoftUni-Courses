@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Exercise\05. Coins\bin\Debug\net8.0\05. Coins.exe
+E:\VS cods\While Loop - Exercise\05. Coins\bin\Debug\net8.0\05. Coins.deps.json
+E:\VS cods\While Loop - Exercise\05. Coins\bin\Debug\net8.0\05. Coins.runtimeconfig.json
+E:\VS cods\While Loop - Exercise\05. Coins\bin\Debug\net8.0\05. Coins.dll
+E:\VS cods\While Loop - Exercise\05. Coins\bin\Debug\net8.0\05. Coins.pdb
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.AssemblyInfo.cs
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.dll
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\refint\05. Coins.dll
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.pdb
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\05. Coins.genruntimeconfig.cache
+E:\VS cods\While Loop - Exercise\05. Coins\obj\Debug\net8.0\ref\05. Coins.dll

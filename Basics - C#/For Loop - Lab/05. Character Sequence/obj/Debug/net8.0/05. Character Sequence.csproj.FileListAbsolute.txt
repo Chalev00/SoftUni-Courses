@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Lab\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.exe
+E:\VS cods\For Loop - Lab\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.deps.json
+E:\VS cods\For Loop - Lab\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.runtimeconfig.json
+E:\VS cods\For Loop - Lab\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.dll
+E:\VS cods\For Loop - Lab\05. Character Sequence\bin\Debug\net8.0\05. Character Sequence.pdb
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.AssemblyInfo.cs
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.dll
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\refint\05. Character Sequence.dll
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.pdb
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\05. Character Sequence.genruntimeconfig.cache
+E:\VS cods\For Loop - Lab\05. Character Sequence\obj\Debug\net8.0\ref\05. Character Sequence.dll

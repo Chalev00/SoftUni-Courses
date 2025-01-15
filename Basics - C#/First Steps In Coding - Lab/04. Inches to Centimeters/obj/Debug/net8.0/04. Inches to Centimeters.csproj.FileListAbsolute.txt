@@ -1,0 +1,14 @@
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.exe
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.deps.json
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.runtimeconfig.json
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.dll
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.pdb
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.AssemblyInfo.cs
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.dll
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\refint\04. Inches to Centimeters.dll
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.pdb
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.genruntimeconfig.cache
+E:\VS cods\First Steps In Coding - Lab\04. Inches to Centimeters\obj\Debug\net8.0\ref\04. Inches to Centimeters.dll

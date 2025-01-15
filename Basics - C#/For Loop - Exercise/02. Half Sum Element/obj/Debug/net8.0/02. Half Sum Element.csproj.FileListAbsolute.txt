@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.exe
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.deps.json
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.dll
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\bin\Debug\net8.0\02. Half Sum Element.pdb
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.dll
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\refint\02. Half Sum Element.dll
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.pdb
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\02. Half Sum Element.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\02. Half Sum Element\obj\Debug\net8.0\ref\02. Half Sum Element.dll

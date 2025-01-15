@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\06. Oscars\bin\Debug\net8.0\06. Oscars.exe
+E:\VS cods\For Loop - Exercise\06. Oscars\bin\Debug\net8.0\06. Oscars.deps.json
+E:\VS cods\For Loop - Exercise\06. Oscars\bin\Debug\net8.0\06. Oscars.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\06. Oscars\bin\Debug\net8.0\06. Oscars.dll
+E:\VS cods\For Loop - Exercise\06. Oscars\bin\Debug\net8.0\06. Oscars.pdb
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.dll
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\refint\06. Oscars.dll
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.pdb
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\06. Oscars.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\06. Oscars\obj\Debug\net8.0\ref\06. Oscars.dll

@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net8.0\02. Passed.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net8.0\02. Passed.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net8.0\02. Passed.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net8.0\02. Passed.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net8.0\02. Passed.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\refint\02. Passed.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\02. Passed.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net8.0\ref\02. Passed.dll

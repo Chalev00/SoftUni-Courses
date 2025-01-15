@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\bin\Debug\net8.0\09. Padawan Equipment.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\bin\Debug\net8.0\09. Padawan Equipment.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\bin\Debug\net8.0\09. Padawan Equipment.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\bin\Debug\net8.0\09. Padawan Equipment.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\bin\Debug\net8.0\09. Padawan Equipment.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\refint\09. Padawan Equipment.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\09. Padawan Equipment.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\9. Padawan Equipment\obj\Debug\net8.0\ref\09. Padawan Equipment.dll

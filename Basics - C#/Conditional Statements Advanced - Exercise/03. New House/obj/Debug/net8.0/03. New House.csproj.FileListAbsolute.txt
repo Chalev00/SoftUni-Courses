@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.exe
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.deps.json
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net8.0\03. New House.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\refint\03. New House.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\03. New House.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net8.0\ref\03. New House.dll

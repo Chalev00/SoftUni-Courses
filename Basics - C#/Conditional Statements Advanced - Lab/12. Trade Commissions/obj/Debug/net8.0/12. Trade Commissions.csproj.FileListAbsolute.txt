@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net8.0\12. Trade Commissions.exe
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net8.0\12. Trade Commissions.deps.json
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net8.0\12. Trade Commissions.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net8.0\12. Trade Commissions.dll
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\bin\Debug\net8.0\12. Trade Commissions.pdb
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.dll
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\refint\12. Trade Commissions.dll
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.pdb
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\12. Trade Commissions.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Lab\12. Trade Commissions\obj\Debug\net8.0\ref\12. Trade Commissions.dll

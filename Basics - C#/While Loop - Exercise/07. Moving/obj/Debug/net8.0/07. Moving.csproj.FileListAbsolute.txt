@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Exercise\07. Moving\bin\Debug\net8.0\07. Moving.exe
+E:\VS cods\While Loop - Exercise\07. Moving\bin\Debug\net8.0\07. Moving.deps.json
+E:\VS cods\While Loop - Exercise\07. Moving\bin\Debug\net8.0\07. Moving.runtimeconfig.json
+E:\VS cods\While Loop - Exercise\07. Moving\bin\Debug\net8.0\07. Moving.dll
+E:\VS cods\While Loop - Exercise\07. Moving\bin\Debug\net8.0\07. Moving.pdb
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.AssemblyInfo.cs
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.dll
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\refint\07. Moving.dll
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.pdb
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\07. Moving.genruntimeconfig.cache
+E:\VS cods\While Loop - Exercise\07. Moving\obj\Debug\net8.0\ref\07. Moving.dll

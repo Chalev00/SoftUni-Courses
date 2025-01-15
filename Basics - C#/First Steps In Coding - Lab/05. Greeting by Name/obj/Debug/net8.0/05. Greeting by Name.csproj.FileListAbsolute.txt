@@ -1,0 +1,14 @@
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.AssemblyInfoInputs.cache
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.AssemblyInfo.cs
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.csproj.CoreCompileInputs.cache
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.exe
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.deps.json
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.runtimeconfig.json
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.dll
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\net8.0\05. Greeting by Name.pdb
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.dll
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\refint\05. Greeting by Name.dll
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.pdb
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\05. Greeting by Name.genruntimeconfig.cache
+E:\VS cods\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\net8.0\ref\05. Greeting by Name.dll

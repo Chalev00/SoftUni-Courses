@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Lab\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.exe
+E:\VS cods\While Loop - Lab\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.deps.json
+E:\VS cods\While Loop - Lab\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.runtimeconfig.json
+E:\VS cods\While Loop - Lab\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.dll
+E:\VS cods\While Loop - Lab\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.pdb
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.AssemblyInfo.cs
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.dll
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\refint\03. Sum Numbers.dll
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.pdb
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.genruntimeconfig.cache
+E:\VS cods\While Loop - Lab\03. Sum Numbers\obj\Debug\net8.0\ref\03. Sum Numbers.dll

@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Lab\03. Combinations\bin\Debug\net8.0\03. Combinations.exe
+E:\VS cods\Nested Loops - Lab\03. Combinations\bin\Debug\net8.0\03. Combinations.deps.json
+E:\VS cods\Nested Loops - Lab\03. Combinations\bin\Debug\net8.0\03. Combinations.runtimeconfig.json
+E:\VS cods\Nested Loops - Lab\03. Combinations\bin\Debug\net8.0\03. Combinations.dll
+E:\VS cods\Nested Loops - Lab\03. Combinations\bin\Debug\net8.0\03. Combinations.pdb
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.dll
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\refint\03. Combinations.dll
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.pdb
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\03. Combinations.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Lab\03. Combinations\obj\Debug\net8.0\ref\03. Combinations.dll

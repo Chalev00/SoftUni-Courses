@@ -1,0 +1,14 @@
+E:\VS cods\Exam prep\04. Tourist Shop\bin\Debug\net8.0\04. Food for Pets.exe
+E:\VS cods\Exam prep\04. Tourist Shop\bin\Debug\net8.0\04. Food for Pets.deps.json
+E:\VS cods\Exam prep\04. Tourist Shop\bin\Debug\net8.0\04. Food for Pets.runtimeconfig.json
+E:\VS cods\Exam prep\04. Tourist Shop\bin\Debug\net8.0\04. Food for Pets.dll
+E:\VS cods\Exam prep\04. Tourist Shop\bin\Debug\net8.0\04. Food for Pets.pdb
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.AssemblyInfoInputs.cache
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.AssemblyInfo.cs
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.csproj.CoreCompileInputs.cache
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.dll
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\refint\04. Food for Pets.dll
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.pdb
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\04. Food for Pets.genruntimeconfig.cache
+E:\VS cods\Exam prep\04. Tourist Shop\obj\Debug\net8.0\ref\04. Food for Pets.dll

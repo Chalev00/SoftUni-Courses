@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Lab\08. Graduation\bin\Debug\net8.0\08. Graduation.exe
+E:\VS cods\While Loop - Lab\08. Graduation\bin\Debug\net8.0\08. Graduation.deps.json
+E:\VS cods\While Loop - Lab\08. Graduation\bin\Debug\net8.0\08. Graduation.runtimeconfig.json
+E:\VS cods\While Loop - Lab\08. Graduation\bin\Debug\net8.0\08. Graduation.dll
+E:\VS cods\While Loop - Lab\08. Graduation\bin\Debug\net8.0\08. Graduation.pdb
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.AssemblyInfo.cs
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.dll
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\refint\08. Graduation.dll
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.pdb
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\08. Graduation.genruntimeconfig.cache
+E:\VS cods\While Loop - Lab\08. Graduation\obj\Debug\net8.0\ref\08. Graduation.dll

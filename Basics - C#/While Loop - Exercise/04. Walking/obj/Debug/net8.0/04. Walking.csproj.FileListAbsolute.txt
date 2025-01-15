@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Exercise\04. Walking\bin\Debug\net8.0\04. Walking.exe
+E:\VS cods\While Loop - Exercise\04. Walking\bin\Debug\net8.0\04. Walking.deps.json
+E:\VS cods\While Loop - Exercise\04. Walking\bin\Debug\net8.0\04. Walking.runtimeconfig.json
+E:\VS cods\While Loop - Exercise\04. Walking\bin\Debug\net8.0\04. Walking.dll
+E:\VS cods\While Loop - Exercise\04. Walking\bin\Debug\net8.0\04. Walking.pdb
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.AssemblyInfo.cs
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.dll
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\refint\04. Walking.dll
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.pdb
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\04. Walking.genruntimeconfig.cache
+E:\VS cods\While Loop - Exercise\04. Walking\obj\Debug\net8.0\ref\04. Walking.dll

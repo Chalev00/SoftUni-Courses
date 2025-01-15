@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.exe
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.deps.json
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.runtimeconfig.json
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.dll
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\bin\Debug\net8.0\02. Exam Preparation.pdb
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.AssemblyInfo.cs
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.dll
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\refint\02. Exam Preparation.dll
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.pdb
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\02. Exam Preparation.genruntimeconfig.cache
+E:\VS cods\While Loop - Exercise\02. Exam Preparation\obj\Debug\net8.0\ref\02. Exam Preparation.dll

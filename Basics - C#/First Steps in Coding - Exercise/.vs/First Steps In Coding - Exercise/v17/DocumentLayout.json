@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\01. USD to BGN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A984CADB-A83C-431F-8DC3-A2C7183F0B77}|06. Repainting\\06. Repainting.csproj|e:\\vs cods\\01. usd to bgn\\06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A984CADB-A83C-431F-8DC3-A2C7183F0B77}|06. Repainting\\06. Repainting.csproj|solutionrelative:06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14C62B1-8FF5-42C8-A93B-99313E0BA5DD}|09. Fish Tank\\09. Fish Tank.csproj|e:\\vs cods\\01. usd to bgn\\09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14C62B1-8FF5-42C8-A93B-99313E0BA5DD}|09. Fish Tank\\09. Fish Tank.csproj|solutionrelative:09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12539957-0DA4-461A-B3EF-AB49AC87E825}|05. Supplies for School\\05. Supplies for School.csproj|e:\\vs cods\\01. usd to bgn\\05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12539957-0DA4-461A-B3EF-AB49AC87E825}|05. Supplies for School\\05. Supplies for School.csproj|solutionrelative:05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88897E54-F84E-4938-A45D-FB2AB8CA028A}|07. Food Delivery\\07. Food Delivery.csproj|e:\\vs cods\\01. usd to bgn\\07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88897E54-F84E-4938-A45D-FB2AB8CA028A}|07. Food Delivery\\07. Food Delivery.csproj|solutionrelative:07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6451B79F-EC12-4FFA-8067-B90CBCE851C2}|08. Basketball Equipment\\08. Basketball Equipment.csproj|e:\\vs cods\\01. usd to bgn\\08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6451B79F-EC12-4FFA-8067-B90CBCE851C2}|08. Basketball Equipment\\08. Basketball Equipment.csproj|solutionrelative:08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE0BEF0-1075-4F39-A37C-B665BBA843DE}|03. Deposit Calculator\\03. Deposit Calculator.csproj|e:\\vs cods\\01. usd to bgn\\03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE0BEF0-1075-4F39-A37C-B665BBA843DE}|03. Deposit Calculator\\03. Deposit Calculator.csproj|solutionrelative:03. deposit calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E629986A-902A-4F0A-9516-6C3CBB6338CB}|04. Vacation Books List\\04. Vacation Books List.csproj|e:\\vs cods\\01. usd to bgn\\04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E629986A-902A-4F0A-9516-6C3CBB6338CB}|04. Vacation Books List\\04. Vacation Books List.csproj|solutionrelative:04. vacation books list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA28E90F-FB68-42CF-868A-CDF4254221A4}|02. Radians to Degrees\\02. Radians to Degrees.csproj|e:\\vs cods\\01. usd to bgn\\02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA28E90F-FB68-42CF-868A-CDF4254221A4}|02. Radians to Degrees\\02. Radians to Degrees.csproj|solutionrelative:02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACA9D57-6DA4-436D-8787-786E96061306}|01. USD to BGN\\01. USD to BGN.csproj|e:\\vs cods\\01. usd to bgn\\01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACA9D57-6DA4-436D-8787-786E96061306}|01. USD to BGN\\01. USD to BGN.csproj|solutionrelative:01. usd to bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\09. Fish Tank\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fish Tank\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\09. Fish Tank\\Program.cs",
+              "RelativeToolTip": "09. Fish Tank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:17:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\08. Basketball Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "08. Basketball Equipment\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\08. Basketball Equipment\\Program.cs",
+              "RelativeToolTip": "08. Basketball Equipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:17:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\07. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "07. Food Delivery\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\07. Food Delivery\\Program.cs",
+              "RelativeToolTip": "07. Food Delivery\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:17:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\06. Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06. Repainting\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\06. Repainting\\Program.cs",
+              "RelativeToolTip": "06. Repainting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:11:34.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\05. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "05. Supplies for School\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\05. Supplies for School\\Program.cs",
+              "RelativeToolTip": "05. Supplies for School\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:22:31.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\04. Vacation Books List\\Program.cs",
+              "RelativeDocumentMoniker": "04. Vacation Books List\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\04. Vacation Books List\\Program.cs",
+              "RelativeToolTip": "04. Vacation Books List\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:14:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\03. Deposit Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Deposit Calculator\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\03. Deposit Calculator\\Program.cs",
+              "RelativeToolTip": "03. Deposit Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:21:17.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\02. Radians to Degrees\\Program.cs",
+              "RelativeDocumentMoniker": "02. Radians to Degrees\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\02. Radians to Degrees\\Program.cs",
+              "RelativeToolTip": "02. Radians to Degrees\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:12:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\01. USD to BGN\\01. USD to BGN\\Program.cs",
+              "RelativeDocumentMoniker": "01. USD to BGN\\Program.cs",
+              "ToolTip": "E:\\VS cods\\01. USD to BGN\\01. USD to BGN\\Program.cs",
+              "RelativeToolTip": "01. USD to BGN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:03:54.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

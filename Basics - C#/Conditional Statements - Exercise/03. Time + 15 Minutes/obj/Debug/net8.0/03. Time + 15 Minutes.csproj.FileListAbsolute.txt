@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.exe
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.deps.json
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.runtimeconfig.json
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.dll
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net8.0\03. Time + 15 Minutes.pdb
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.dll
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\refint\03. Time + 15 Minutes.dll
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.pdb
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\03. Time + 15 Minutes.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net8.0\ref\03. Time + 15 Minutes.dll

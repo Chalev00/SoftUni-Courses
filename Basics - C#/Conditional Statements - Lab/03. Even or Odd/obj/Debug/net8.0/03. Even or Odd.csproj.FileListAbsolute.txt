@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.exe
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.deps.json
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.runtimeconfig.json
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.dll
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\bin\Debug\net8.0\03. Even or Odd.pdb
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.dll
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\refint\03. Even or Odd.dll
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.pdb
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\03. Even or Odd.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Lab\03. Even or Odd\obj\Debug\net8.0\ref\03. Even or Odd.dll

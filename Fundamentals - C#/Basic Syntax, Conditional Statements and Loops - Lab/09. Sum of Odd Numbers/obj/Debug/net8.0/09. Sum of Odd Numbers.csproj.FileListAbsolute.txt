@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net8.0\09. Sum of Odd Numbers.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net8.0\09. Sum of Odd Numbers.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net8.0\09. Sum of Odd Numbers.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net8.0\09. Sum of Odd Numbers.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\bin\Debug\net8.0\09. Sum of Odd Numbers.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\refint\09. Sum of Odd Numbers.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\09. Sum of Odd Numbers.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\09. Sum of Odd Numbers\obj\Debug\net8.0\ref\09. Sum of Odd Numbers.dll

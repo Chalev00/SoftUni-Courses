@@ -1,0 +1,14 @@
+E:\VS cods\Exam prep\01. Fruit Market\bin\Debug\net8.0\01. Fruit Market.exe
+E:\VS cods\Exam prep\01. Fruit Market\bin\Debug\net8.0\01. Fruit Market.deps.json
+E:\VS cods\Exam prep\01. Fruit Market\bin\Debug\net8.0\01. Fruit Market.runtimeconfig.json
+E:\VS cods\Exam prep\01. Fruit Market\bin\Debug\net8.0\01. Fruit Market.dll
+E:\VS cods\Exam prep\01. Fruit Market\bin\Debug\net8.0\01. Fruit Market.pdb
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.AssemblyInfoInputs.cache
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.AssemblyInfo.cs
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.dll
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\refint\01. Fruit Market.dll
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.pdb
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\01. Fruit Market.genruntimeconfig.cache
+E:\VS cods\Exam prep\01. Fruit Market\obj\Debug\net8.0\ref\01. Fruit Market.dll

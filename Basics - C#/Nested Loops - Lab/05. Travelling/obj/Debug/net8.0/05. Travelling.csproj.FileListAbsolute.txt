@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Lab\05. Travelling\bin\Debug\net8.0\05. Travelling.exe
+E:\VS cods\Nested Loops - Lab\05. Travelling\bin\Debug\net8.0\05. Travelling.deps.json
+E:\VS cods\Nested Loops - Lab\05. Travelling\bin\Debug\net8.0\05. Travelling.runtimeconfig.json
+E:\VS cods\Nested Loops - Lab\05. Travelling\bin\Debug\net8.0\05. Travelling.dll
+E:\VS cods\Nested Loops - Lab\05. Travelling\bin\Debug\net8.0\05. Travelling.pdb
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.dll
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\refint\05. Travelling.dll
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.pdb
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\05. Travelling.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Lab\05. Travelling\obj\Debug\net8.0\ref\05. Travelling.dll

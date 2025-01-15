@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\bin\Debug\net8.0\05. Number 100-200.exe
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\bin\Debug\net8.0\05. Number 100-200.deps.json
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\bin\Debug\net8.0\05. Number 100-200.runtimeconfig.json
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\bin\Debug\net8.0\05. Number 100-200.dll
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\bin\Debug\net8.0\05. Number 100-200.pdb
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.dll
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\refint\05. Number 100-200.dll
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.pdb
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\05. Number 100-200.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Lab\05. Number 100-200\obj\Debug\net8.0\ref\05. Number 100-200.dll

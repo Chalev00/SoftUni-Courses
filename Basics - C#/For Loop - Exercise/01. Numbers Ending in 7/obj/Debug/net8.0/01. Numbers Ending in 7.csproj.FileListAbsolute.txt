@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.exe
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.deps.json
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.dll
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net8.0\01. Numbers Ending in 7.pdb
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.dll
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\refint\01. Numbers Ending in 7.dll
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.pdb
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\01. Numbers Ending in 7.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net8.0\ref\01. Numbers Ending in 7.dll

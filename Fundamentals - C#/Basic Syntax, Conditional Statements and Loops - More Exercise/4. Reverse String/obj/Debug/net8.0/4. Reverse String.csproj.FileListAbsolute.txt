@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\bin\Debug\net8.0\4. Reverse String.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\bin\Debug\net8.0\4. Reverse String.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\bin\Debug\net8.0\4. Reverse String.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\bin\Debug\net8.0\4. Reverse String.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\bin\Debug\net8.0\4. Reverse String.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\refint\4. Reverse String.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\4. Reverse String.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\4. Reverse String\obj\Debug\net8.0\ref\4. Reverse String.dll

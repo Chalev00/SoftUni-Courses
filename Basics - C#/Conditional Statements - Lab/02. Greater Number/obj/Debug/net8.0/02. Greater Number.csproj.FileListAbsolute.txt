@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.exe
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.deps.json
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.runtimeconfig.json
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.dll
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.pdb
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.dll
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\refint\02. Greater Number.dll
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.pdb
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\ref\02. Greater Number.dll

@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\bin\Debug\net8.0\02. Divison.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\bin\Debug\net8.0\02. Divison.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\bin\Debug\net8.0\02. Divison.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\bin\Debug\net8.0\02. Divison.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\bin\Debug\net8.0\02. Divison.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\refint\02. Divison.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\02. Divison.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\2. Divison\obj\Debug\net8.0\ref\02. Divison.dll

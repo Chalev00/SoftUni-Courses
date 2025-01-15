@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net8.0\08. Divisible by 3.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net8.0\08. Divisible by 3.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net8.0\08. Divisible by 3.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net8.0\08. Divisible by 3.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net8.0\08. Divisible by 3.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\refint\08. Divisible by 3.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\08. Divisible by 3.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net8.0\ref\08. Divisible by 3.dll

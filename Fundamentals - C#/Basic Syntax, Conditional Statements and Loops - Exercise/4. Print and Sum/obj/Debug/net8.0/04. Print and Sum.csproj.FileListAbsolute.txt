@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\bin\Debug\net8.0\04. Print and Sum.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\bin\Debug\net8.0\04. Print and Sum.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\bin\Debug\net8.0\04. Print and Sum.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\bin\Debug\net8.0\04. Print and Sum.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\bin\Debug\net8.0\04. Print and Sum.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\refint\04. Print and Sum.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\04. Print and Sum.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\4. Print and Sum\obj\Debug\net8.0\ref\04. Print and Sum.dll

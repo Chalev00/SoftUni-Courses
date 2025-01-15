@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net8.0\06. Cinema Tickets.exe
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net8.0\06. Cinema Tickets.deps.json
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net8.0\06. Cinema Tickets.runtimeconfig.json
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net8.0\06. Cinema Tickets.dll
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\bin\Debug\net8.0\06. Cinema Tickets.pdb
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.dll
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\refint\06. Cinema Tickets.dll
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.pdb
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\06. Cinema Tickets.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Exercise\06. Cinema Tickets\obj\Debug\net8.0\ref\06. Cinema Tickets.dll

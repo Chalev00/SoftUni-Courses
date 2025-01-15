@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\bin\Debug\net8.0\5. Messages.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\bin\Debug\net8.0\5. Messages.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\bin\Debug\net8.0\5. Messages.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\bin\Debug\net8.0\5. Messages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\bin\Debug\net8.0\5. Messages.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\refint\5. Messages.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\5. Messages.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - More Exercise\5. Messages\obj\Debug\net8.0\ref\5. Messages.dll

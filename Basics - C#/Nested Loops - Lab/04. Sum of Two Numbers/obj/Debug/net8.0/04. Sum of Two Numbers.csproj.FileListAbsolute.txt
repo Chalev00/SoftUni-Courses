@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net8.0\04. Sum of Two Numbers.exe
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net8.0\04. Sum of Two Numbers.deps.json
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net8.0\04. Sum of Two Numbers.runtimeconfig.json
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net8.0\04. Sum of Two Numbers.dll
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\bin\Debug\net8.0\04. Sum of Two Numbers.pdb
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.dll
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\refint\04. Sum of Two Numbers.dll
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.pdb
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\04. Sum of Two Numbers.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Lab\04. Sum of Two Numbers\obj\Debug\net8.0\ref\04. Sum of Two Numbers.dll

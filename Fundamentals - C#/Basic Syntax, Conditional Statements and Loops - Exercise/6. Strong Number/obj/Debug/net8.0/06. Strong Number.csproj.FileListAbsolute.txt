@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\bin\Debug\net8.0\06. Strong Number.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\bin\Debug\net8.0\06. Strong Number.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\bin\Debug\net8.0\06. Strong Number.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\bin\Debug\net8.0\06. Strong Number.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\bin\Debug\net8.0\06. Strong Number.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\refint\06. Strong Number.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\06. Strong Number.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\6. Strong Number\obj\Debug\net8.0\ref\06. Strong Number.dll

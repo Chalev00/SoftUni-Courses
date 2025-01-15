@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.exe
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.deps.json
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.runtimeconfig.json
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.dll
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net8.0\06. World Swimming Record.pdb
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.AssemblyInfo.cs
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.dll
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\refint\06. World Swimming Record.dll
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.pdb
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\06. World Swimming Record.genruntimeconfig.cache
+E:\VS cods\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net8.0\ref\06. World Swimming Record.dll

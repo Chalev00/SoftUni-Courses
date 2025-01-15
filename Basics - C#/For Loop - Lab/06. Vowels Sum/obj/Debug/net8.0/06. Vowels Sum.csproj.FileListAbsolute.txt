@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Lab\06. Vowels Sum\bin\Debug\net8.0\06. Vowels Sum.exe
+E:\VS cods\For Loop - Lab\06. Vowels Sum\bin\Debug\net8.0\06. Vowels Sum.deps.json
+E:\VS cods\For Loop - Lab\06. Vowels Sum\bin\Debug\net8.0\06. Vowels Sum.runtimeconfig.json
+E:\VS cods\For Loop - Lab\06. Vowels Sum\bin\Debug\net8.0\06. Vowels Sum.dll
+E:\VS cods\For Loop - Lab\06. Vowels Sum\bin\Debug\net8.0\06. Vowels Sum.pdb
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.AssemblyInfo.cs
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.dll
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\refint\06. Vowels Sum.dll
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.pdb
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\06. Vowels Sum.genruntimeconfig.cache
+E:\VS cods\For Loop - Lab\06. Vowels Sum\obj\Debug\net8.0\ref\06. Vowels Sum.dll

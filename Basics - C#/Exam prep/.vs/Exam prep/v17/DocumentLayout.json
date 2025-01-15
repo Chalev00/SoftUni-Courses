@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VS cods\\Exam prep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9470FDE3-4017-406E-9838-CB84B262D6DB}|04. Tourist Shop\\04. Food for Pets.csproj|e:\\vs cods\\exam prep\\04. tourist shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470FDE3-4017-406E-9838-CB84B262D6DB}|04. Tourist Shop\\04. Food for Pets.csproj|solutionrelative:04. tourist shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D06562-3F67-4AAA-A9C7-7BB212D80A19}|05. Easter Eggs Battle\\05. Easter Eggs Battle.csproj|e:\\vs cods\\exam prep\\05. easter eggs battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D06562-3F67-4AAA-A9C7-7BB212D80A19}|05. Easter Eggs Battle\\05. Easter Eggs Battle.csproj|solutionrelative:05. easter eggs battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E454EB2C-80DC-44F5-A33A-7C5B14293843}|03. Mobile operator\\03. Movie Destination.csproj|e:\\vs cods\\exam prep\\03. mobile operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E454EB2C-80DC-44F5-A33A-7C5B14293843}|03. Mobile operator\\03. Movie Destination.csproj|solutionrelative:03. mobile operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F8AD0-7420-453A-99B6-F870FFCD3270}|02. Safari\\02. Family Trip.csproj|e:\\vs cods\\exam prep\\02. safari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831F8AD0-7420-453A-99B6-F870FFCD3270}|02. Safari\\02. Family Trip.csproj|solutionrelative:02. safari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Exam prep\\04. Tourist Shop\\Program.cs",
+              "RelativeDocumentMoniker": "04. Tourist Shop\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Exam prep\\04. Tourist Shop\\Program.cs",
+              "RelativeToolTip": "04. Tourist Shop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:45:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Exam prep\\05. Easter Eggs Battle\\Program.cs",
+              "RelativeDocumentMoniker": "05. Easter Eggs Battle\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Exam prep\\05. Easter Eggs Battle\\Program.cs",
+              "RelativeToolTip": "05. Easter Eggs Battle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:45:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Exam prep\\03. Mobile operator\\Program.cs",
+              "RelativeDocumentMoniker": "03. Mobile operator\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Exam prep\\03. Mobile operator\\Program.cs",
+              "RelativeToolTip": "03. Mobile operator\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:21:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS cods\\Exam prep\\02. Safari\\Program.cs",
+              "RelativeDocumentMoniker": "02. Safari\\Program.cs",
+              "ToolTip": "E:\\VS cods\\Exam prep\\02. Safari\\Program.cs",
+              "RelativeToolTip": "02. Safari\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T11:15:25.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

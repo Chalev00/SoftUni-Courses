@@ -1,0 +1,14 @@
+E:\VS cods\Nested Loops - Lab\01. Clock\bin\Debug\net8.0\01. Clock.exe
+E:\VS cods\Nested Loops - Lab\01. Clock\bin\Debug\net8.0\01. Clock.deps.json
+E:\VS cods\Nested Loops - Lab\01. Clock\bin\Debug\net8.0\01. Clock.runtimeconfig.json
+E:\VS cods\Nested Loops - Lab\01. Clock\bin\Debug\net8.0\01. Clock.dll
+E:\VS cods\Nested Loops - Lab\01. Clock\bin\Debug\net8.0\01. Clock.pdb
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.AssemblyInfoInputs.cache
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.AssemblyInfo.cs
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.csproj.CoreCompileInputs.cache
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.dll
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\refint\01. Clock.dll
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.pdb
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\01. Clock.genruntimeconfig.cache
+E:\VS cods\Nested Loops - Lab\01. Clock\obj\Debug\net8.0\ref\01. Clock.dll

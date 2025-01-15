@@ -1,0 +1,14 @@
+E:\VS cods\01. USD to BGN\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.exe
+E:\VS cods\01. USD to BGN\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.deps.json
+E:\VS cods\01. USD to BGN\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.runtimeconfig.json
+E:\VS cods\01. USD to BGN\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.dll
+E:\VS cods\01. USD to BGN\07. Food Delivery\bin\Debug\net8.0\07. Food Delivery.pdb
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.AssemblyInfoInputs.cache
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.AssemblyInfo.cs
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.dll
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\refint\07. Food Delivery.dll
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.pdb
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\07. Food Delivery.genruntimeconfig.cache
+E:\VS cods\01. USD to BGN\07. Food Delivery\obj\Debug\net8.0\ref\07. Food Delivery.dll

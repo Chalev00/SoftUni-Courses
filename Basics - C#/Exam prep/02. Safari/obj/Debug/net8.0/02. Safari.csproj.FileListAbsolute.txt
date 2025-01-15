@@ -1,0 +1,14 @@
+E:\VS cods\Exam prep\02. Safari\bin\Debug\net8.0\02. Safari.exe
+E:\VS cods\Exam prep\02. Safari\bin\Debug\net8.0\02. Safari.deps.json
+E:\VS cods\Exam prep\02. Safari\bin\Debug\net8.0\02. Safari.runtimeconfig.json
+E:\VS cods\Exam prep\02. Safari\bin\Debug\net8.0\02. Safari.dll
+E:\VS cods\Exam prep\02. Safari\bin\Debug\net8.0\02. Safari.pdb
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.AssemblyInfoInputs.cache
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.AssemblyInfo.cs
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.csproj.CoreCompileInputs.cache
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.dll
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\refint\02. Safari.dll
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.pdb
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\02. Safari.genruntimeconfig.cache
+E:\VS cods\Exam prep\02. Safari\obj\Debug\net8.0\ref\02. Safari.dll

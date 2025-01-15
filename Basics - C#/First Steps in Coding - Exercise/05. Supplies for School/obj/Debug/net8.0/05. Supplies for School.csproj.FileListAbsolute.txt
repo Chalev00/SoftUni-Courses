@@ -1,0 +1,14 @@
+E:\VS cods\01. USD to BGN\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.exe
+E:\VS cods\01. USD to BGN\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.deps.json
+E:\VS cods\01. USD to BGN\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.runtimeconfig.json
+E:\VS cods\01. USD to BGN\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.dll
+E:\VS cods\01. USD to BGN\05. Supplies for School\bin\Debug\net8.0\05. Supplies for School.pdb
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.AssemblyInfoInputs.cache
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.AssemblyInfo.cs
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.csproj.CoreCompileInputs.cache
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.dll
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\refint\05. Supplies for School.dll
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.pdb
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\05. Supplies for School.genruntimeconfig.cache
+E:\VS cods\01. USD to BGN\05. Supplies for School\obj\Debug\net8.0\ref\05. Supplies for School.dll

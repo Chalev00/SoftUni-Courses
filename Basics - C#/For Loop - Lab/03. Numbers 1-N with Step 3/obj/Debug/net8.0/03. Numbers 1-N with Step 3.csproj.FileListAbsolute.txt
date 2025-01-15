@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\bin\Debug\net8.0\03. Numbers 1-N with Step 3.exe
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\bin\Debug\net8.0\03. Numbers 1-N with Step 3.deps.json
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\bin\Debug\net8.0\03. Numbers 1-N with Step 3.runtimeconfig.json
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\bin\Debug\net8.0\03. Numbers 1-N with Step 3.dll
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\bin\Debug\net8.0\03. Numbers 1-N with Step 3.pdb
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.AssemblyInfo.cs
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.dll
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\refint\03. Numbers 1-N with Step 3.dll
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.pdb
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\03. Numbers 1-N with Step 3.genruntimeconfig.cache
+E:\VS cods\For Loop - Lab\03. Numbers 1-N with Step 3\obj\Debug\net8.0\ref\03. Numbers 1-N with Step 3.dll

@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.exe
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.deps.json
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.dll
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\bin\Debug\net8.0\07. Trekking Mania.pdb
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.dll
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\refint\07. Trekking Mania.dll
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.pdb
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\07. Trekking Mania.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\07. Trekking Mania\obj\Debug\net8.0\ref\07. Trekking Mania.dll

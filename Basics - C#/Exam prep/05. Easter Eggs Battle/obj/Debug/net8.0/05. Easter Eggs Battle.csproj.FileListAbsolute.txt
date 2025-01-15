@@ -1,0 +1,14 @@
+E:\VS cods\Exam prep\05. Easter Eggs Battle\bin\Debug\net8.0\05. Easter Eggs Battle.exe
+E:\VS cods\Exam prep\05. Easter Eggs Battle\bin\Debug\net8.0\05. Easter Eggs Battle.deps.json
+E:\VS cods\Exam prep\05. Easter Eggs Battle\bin\Debug\net8.0\05. Easter Eggs Battle.runtimeconfig.json
+E:\VS cods\Exam prep\05. Easter Eggs Battle\bin\Debug\net8.0\05. Easter Eggs Battle.dll
+E:\VS cods\Exam prep\05. Easter Eggs Battle\bin\Debug\net8.0\05. Easter Eggs Battle.pdb
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.AssemblyInfoInputs.cache
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.AssemblyInfo.cs
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.csproj.CoreCompileInputs.cache
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.dll
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\refint\05. Easter Eggs Battle.dll
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.pdb
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\05. Easter Eggs Battle.genruntimeconfig.cache
+E:\VS cods\Exam prep\05. Easter Eggs Battle\obj\Debug\net8.0\ref\05. Easter Eggs Battle.dll

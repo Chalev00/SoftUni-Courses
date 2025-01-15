@@ -1,0 +1,14 @@
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.exe
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.deps.json
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.runtimeconfig.json
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net8.0\01. Cinema.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.AssemblyInfoInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.AssemblyInfo.cs
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.csproj.CoreCompileInputs.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\refint\01. Cinema.dll
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.pdb
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\01. Cinema.genruntimeconfig.cache
+E:\VS cods\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net8.0\ref\01. Cinema.dll

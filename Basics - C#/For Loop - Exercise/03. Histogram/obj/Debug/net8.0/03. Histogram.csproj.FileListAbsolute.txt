@@ -1,0 +1,14 @@
+E:\VS cods\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.exe
+E:\VS cods\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.deps.json
+E:\VS cods\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.runtimeconfig.json
+E:\VS cods\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.dll
+E:\VS cods\For Loop - Exercise\03. Histogram\bin\Debug\net8.0\03. Histogram.pdb
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.AssemblyInfoInputs.cache
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.AssemblyInfo.cs
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.csproj.CoreCompileInputs.cache
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.dll
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\refint\03. Histogram.dll
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.pdb
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\03. Histogram.genruntimeconfig.cache
+E:\VS cods\For Loop - Exercise\03. Histogram\obj\Debug\net8.0\ref\03. Histogram.dll

@@ -1,0 +1,14 @@
+E:\VS cods\01. USD to BGN\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.exe
+E:\VS cods\01. USD to BGN\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.deps.json
+E:\VS cods\01. USD to BGN\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.runtimeconfig.json
+E:\VS cods\01. USD to BGN\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.dll
+E:\VS cods\01. USD to BGN\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.pdb
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfoInputs.cache
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfo.cs
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.dll
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\refint\04. Vacation Books List.dll
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.pdb
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.genruntimeconfig.cache
+E:\VS cods\01. USD to BGN\04. Vacation Books List\obj\Debug\net8.0\ref\04. Vacation Books List.dll

@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\07. Vending Machine.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\07. Vending Machine.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\07. Vending Machine.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\07. Vending Machine.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\07. Vending Machine.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\refint\07. Vending Machine.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\07. Vending Machine.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\ref\07. Vending Machine.dll

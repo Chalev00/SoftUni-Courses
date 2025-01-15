@@ -1,0 +1,14 @@
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net8.0\05. Month Printer.exe
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net8.0\05. Month Printer.deps.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net8.0\05. Month Printer.runtimeconfig.json
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net8.0\05. Month Printer.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net8.0\05. Month Printer.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.AssemblyInfoInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.AssemblyInfo.cs
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.csproj.CoreCompileInputs.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\refint\05. Month Printer.dll
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.pdb
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\05. Month Printer.genruntimeconfig.cache
+E:\VS cods\Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net8.0\ref\05. Month Printer.dll

@@ -1,0 +1,14 @@
+E:\VS cods\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.exe
+E:\VS cods\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.deps.json
+E:\VS cods\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.runtimeconfig.json
+E:\VS cods\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.dll
+E:\VS cods\While Loop - Lab\06. Max Number\bin\Debug\net8.0\06. Max Number.pdb
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.AssemblyInfoInputs.cache
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.AssemblyInfo.cs
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.csproj.CoreCompileInputs.cache
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.dll
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\refint\06. Max Number.dll
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.pdb
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\06. Max Number.genruntimeconfig.cache
+E:\VS cods\While Loop - Lab\06. Max Number\obj\Debug\net8.0\ref\06. Max Number.dll
